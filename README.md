@@ -5,9 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jizus696" alt="jizus696" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Ansible, Bash, Terraform, Docker, Grafana and Kubernetes.**
+I'm a **Full Stack JavaScript** developer with experience in **React**, **Node.js**, and **SQL** databases.  
+Currently, I'm expanding my skill set into the **DevOps** world, exploring tools like **Docker**, **Grafana**, **Terraform**, **Kubernetes**, and **Jenkins**.
 
-- 💬 Ask me about **react, laravel**
+💻 I love building web applications and working with **cloud technologies**, especially **AWS**.  
+🎯 My long-term goal is to become a **Solutions Architect**, combining expertise in **cloud** and **artificial intelligence**.  
+📚 I'm always learning something new and looking for challenges that push me to grow.
+
+---
+💡 *"Continuous learning is the key to building extraordinary solutions."*
 
 - 📫 How to reach me **jeslero12@outlook.com**
 

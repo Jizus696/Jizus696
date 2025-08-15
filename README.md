@@ -16,6 +16,11 @@ Currently, I'm expanding my skill set into the **DevOps** world, exploring tools
 💡 *"Continuous learning is the key to building extraordinary solutions."*
 
 - 📫 How to reach me **jeslero12@outlook.com**
+##  Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-–-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Jizus696/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-–-%2345AFB0?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jeslero12)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
